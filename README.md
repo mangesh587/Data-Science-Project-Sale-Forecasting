@@ -17,7 +17,6 @@ The dataset (`sales_data.csv`) includes daily sales information across four fiel
 * `Quantity`: Number of units sold
 * `Revenue`: Revenue earned on that day
 
-Sa
 ---
 
 ##  Libraries Used and Why
